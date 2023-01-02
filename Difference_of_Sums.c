@@ -19,5 +19,4 @@ int main()
         n=x-s;
         printf("%d",n);
     }
-    
 }
